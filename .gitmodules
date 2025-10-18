@@ -1,3 +1,0 @@
-[submodule "src/modules/playerbot"]
-	path = src/modules/playerbot
-	url = git@github.com:ike3/mangosbot.git
